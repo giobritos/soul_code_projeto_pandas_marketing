@@ -1,6 +1,6 @@
 # Projeto ETL Marketing
 
-Este é um arquivo de documentação (README.md) para um projeto de ETL (Extract, Transform, Load) e análise de dados de uma base de marketing. O projeto utiliza a biblioteca Pandas para manipulação e análise dos dados e a biblioteca Pandera para validação dos dados.
+Este é um projeto de ETL (Extract, Transform, Load) e análise de dados de uma base de marketing. O projeto utiliza a biblioteca Pandas para manipulação e análise dos dados e a biblioteca Pandera para validação dos dados.
 
 ## Objetivo do Projeto
 
