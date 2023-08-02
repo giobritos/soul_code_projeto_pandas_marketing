@@ -24,6 +24,6 @@ O projeto realiza diversas etapas de tratamento e análise dos dados, incluindo 
 
 Contribuições e melhorias para o código são bem-vindas e podem ser enviadas através de pull requests no repositório GitHub.
 
-#Autor
+## Autor
 
 O projeto foi desenvolvido por [Giovana de Brito Silva](https://github.com/giobritos) 🤗
